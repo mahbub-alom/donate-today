@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+header{
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.418), rgba(0, 0, 0, 0.486)),
+    url(/images/donation3.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    color: white;
+    padding: 300px 300px;
+    text-align: center;
+}
+.container p{
+    color: rgba(255, 255, 255, 0.712);
+    margin-top: 15px;
+}
+.btn-primary{
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #FD6E0A;
+    margin-top: 15px;
+}
